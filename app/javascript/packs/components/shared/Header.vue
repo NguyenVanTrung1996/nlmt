@@ -3,7 +3,7 @@
     <v-toolbar height="90" class="orange white--text">
       <v-toolbar-title>
         <v-img
-          class="logo"
+          class="logo ml-8"
           :src="require('../../assets/home/logo.png')"
           alt="default-avatar"
         />

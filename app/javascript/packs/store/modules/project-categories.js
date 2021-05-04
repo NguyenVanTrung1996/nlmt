@@ -41,18 +41,14 @@ const state = {
                     `<strong>Địa điểm:</strong> Tx Phổ Yên tỉnh Thái Nguyên<br/>
                             <strong>Chủ đầu tư:</strong> Cty cổ phần Sunny`
             },
+            {
+                id: 14, name: "Dự án nhà ở cán bộ cty Venture International",
+                images: ["vc1.png", "vc2.png", "vc3.png", "vc4.png"], wattage: "N/A", description:
+                    `<strong>Địa điểm:</strong> Thủ đô Viêng Chăn - Lào<br/>
+                            <strong>Chủ đầu tư:</strong> Cty Venture International`
+            },
         ]
-    },
-        // {
-        //     id: 2, name: "Hộ gia đình", projects: [
-        //         { id: 15, name: "Hộ gia đình Bắc Giang", image: "project2.jpeg" },
-        //         { id: 16, name: "Hộ gia đình Bắc Ninh", image: "project2.jpeg" },
-        //         { id: 17, name: "Hộ gia đình Đồng Nai", image: "project2.jpeg" },
-        //         { id: 18, name: "Hộ gia đình Thái Nguyên", image: "project2.jpeg" },
-        //         { id: 19, name: "Hộ gia đình Cao Bằng", image: "project2.jpeg" },
-        //         { id: 20, name: "Hộ gia đình Lạng Sơn", image: "project2.jpeg" }
-        //     ]
-        // },
+    }
     ]
 }
 
